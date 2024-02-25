@@ -1,3 +1,7 @@
+<div align="center">
+<h1 align="center">Hola, soy Juan Cujilema CODECT </h1>
+</div>
+
 - 👋 Hi, I’m @Juan-Cujilema
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
